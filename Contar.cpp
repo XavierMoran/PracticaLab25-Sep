@@ -11,7 +11,7 @@ int main(void)
 {
     int n;
     cout << endl;
-    cout << "CONTEO DE NUMEROS" << endl << endl;
+    cout << "CONTEO DE NUMEROS" << endl;
     cout << "HASTA QUE NUMERO CONTAR: ";
     cin >> n;
 
